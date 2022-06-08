@@ -1,0 +1,47 @@
+body {
+  
+    background: url("../image/pattern.png");
+
+    font-family: Tahoma;
+    line-height: 1.6;
+
+}
+
+.card {
+ 
+   width: 400px;
+   margin: 30px auto;
+   padding: 20px;
+
+   background-color: #fff;
+   box-shadow: 0 5px 20px;
+   border-radius: 10px;
+    
+}
+
+.card-photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+
+}
+
+.card-title {
+
+    font-size: 30px;
+    text-align: center;
+    color: #1e4e20;
+}
+
+.card-text {
+
+    font-size: 15px;
+}
+
+.card-text2 {
+
+    font-size: 20px;
+    color: #1e4e20;
+}
